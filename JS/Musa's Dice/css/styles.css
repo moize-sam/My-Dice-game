@@ -1,0 +1,57 @@
+#section-1 {
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 50px 50px 50px;
+  }
+  
+  #section-1 h1 {
+    font-size: 50px;
+    font-style: oblique;
+    color: rgb(49, 28, 173);
+  }
+  
+  #section-2 {
+    display: none;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  #pig {
+    color: rgb(40, 56, 146);
+  }
+  
+  #dice {
+    width: 100px;
+    height: 100px;
+    border: solid rgb(6, 163, 190) 5px;
+    text-align: center;
+    margin: 20px 100px 0px 150px;
+  }
+  
+  #dice h2 {
+    font-size: 50px;
+    color: white;
+  }
+  
+  button {
+    width: 150px;
+    background-color: rgba(34, 197, 202, 0.973);
+    border: 3px solid black;
+    color: white;
+    padding: 3px;
+  }
+  
+  #player1 {
+    color: rgb(197, 14, 197);
+  }
+  
+  #player2 {
+    color: rgb(206, 40, 221);
+  }
+  
+  .players {
+    color: rgb(234, 238, 20);
+  }
+  body {
+    background-color:skyblue;
+  }
